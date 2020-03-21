@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- coding
+  - Javascript
+  - css
+  - html
+ - sleeping 
+ - eating
+ - repeat
