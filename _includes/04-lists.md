@@ -1,0 +1,7 @@
+- coding
+  - Javascript
+  - css
+  - html
+ - sleeping 
+ - eating
+ - repeat
